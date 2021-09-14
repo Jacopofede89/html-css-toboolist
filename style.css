@@ -42,17 +42,8 @@ body{
    
 }
 
-/* .box{ */
-    margin: auto;
-    margin-top: 20px;
-    width: 100%;
-    height: 100px;
-    background-color:darkblue;
-    border-radius: 1%;
-}
-
 .button{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgba(246,248,249,255);
 }
 
 #button-1{
@@ -69,7 +60,7 @@ body{
     border: solid 1px lightgrey;
     border-radius: 5%;
     padding: 10px 10px;
-    
+    margin-bottom: 40px;
 }
 
 #text{
@@ -118,10 +109,10 @@ body{
 #row5 span{
     font-size: 15px;
     padding: 4px 5px;
-    background-color:rgba(242,158,51,255)
-    ;
+    background-color:rgba(242,158,51,255);
     color:white;
     border-radius: 25%;
+    line-height: 3.6;
 }
 
 #row6 span{
