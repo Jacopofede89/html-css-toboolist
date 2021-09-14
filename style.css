@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(246,248,249,255)
+    ;
+   
+}
+
+.box-logo{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    
+}
+
+#logo{
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#tobo{
+    color:black;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.main-box{
+    margin: auto;
+    margin-top: 20px;
+    width: 70%;
+    height: 600px;
+    background-color:white;
+    border-radius: 2%;
+}
