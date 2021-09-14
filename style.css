@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 body{
@@ -36,6 +37,8 @@ body{
     height: 600px;
     background-color:white;
     border-radius: 1%;
+    padding-left: 50px;
+    padding-top: 20px;
    
 }
 
@@ -54,7 +57,7 @@ body{
 
 #button-1{
     background-color:rgba(71,173,241,255);    ;
-    color:lightgrey;
+    color:white;
     border: solid 1px lightgrey;
     border-radius: 5%;
     padding: 10px 10px;
@@ -66,4 +69,86 @@ body{
     border: solid 1px lightgrey;
     border-radius: 5%;
     padding: 10px 10px;
+    
+}
+
+#text{
+    font-size: 30px;
+    
+}
+
+#row span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(71,173,241,255);
+    color:white;
+    border-radius: 25%;
+    line-height: 3.6;
+}
+
+#row2 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(71,173,241,255);
+    color:white;
+    border-radius: 25%;
+    line-height: 3.6;
+}
+
+#row3 span{
+    
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(156,114,228,255)
+    ;
+    color:white;
+    border-radius: 25%;
+}
+
+#row4 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(100,192,169,255)
+    ;
+    color:white;
+    border-radius: 25%;
+    line-height: 3.6;
+}
+
+#row5 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(242,158,51,255)
+    ;
+    color:white;
+    border-radius: 25%;
+}
+
+#row6 span{
+    line-height: 3.6;
+}
+
+#row7 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(216,99,161,255);
+    color:white;
+    border-radius: 25%;
+}
+
+#row8 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(176,201,38,255);    ;
+    color:white;
+    border-radius: 25%;
+    line-height: 3.6;
+}
+
+#row9 span{
+    font-size: 15px;
+    padding: 4px 5px;
+    background-color:rgba(69,171,234,255);
+    color:white;
+    border-radius: 25%;
 }
